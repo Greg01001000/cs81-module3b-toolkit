@@ -7,4 +7,7 @@
 3 squared = 9
 
 **isEven() output:**
-3 is odd
+Is 3 even? false
+
+**isOdd() output:**
+Is 3 odd? true
