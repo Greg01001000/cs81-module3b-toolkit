@@ -4,3 +4,5 @@ const double = n => n * 2;
 
 let n = 3;
 console.log(n + ' * 2 = ' + double(n));
+
+const square = n => n ** 2;
