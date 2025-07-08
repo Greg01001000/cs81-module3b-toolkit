@@ -21,5 +21,5 @@ Is 4 odd? false
 -3 negated is 3 
 
 **reciprocal() output:**  
-The reciprocal of 3 is 0.3333333333333333 
+The reciprocal of 3 is 0.3333333333333333  
 The reciprocal of 0.25 is 4 
