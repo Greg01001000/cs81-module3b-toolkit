@@ -2,3 +2,6 @@
 
 **double() output:**
 3 * 2 = 6
+
+**square() output:**
+3 squared = 9

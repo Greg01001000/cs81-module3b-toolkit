@@ -6,3 +6,5 @@ let n = 3;
 console.log(n + ' * 2 = ' + double(n));
 
 const square = n => n ** 2;
+
+console.log('\n' + n + ' squared = ' + square(n));
