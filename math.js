@@ -2,7 +2,7 @@
 
 const double = n => n * 2;
 
-let n = 3;
+let n = -3;
 console.log(n + ' * 2 = ' + double(n));
 
 const square = n => n ** 2;
@@ -17,4 +17,6 @@ const isOdd = n => !!(n % 2);
 
 console.log('\nIs ' + n + ' odd? ' + isOdd(n));
 
-const negative = n => 0 - n;
+const negation = n => 0 - n;
+
+console.log('\n' + n + ' negated is ' + negation(n));
