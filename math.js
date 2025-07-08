@@ -16,3 +16,5 @@ console.log('\nIs ' + n + ' even? ' + isEven(n));
 const isOdd = n => !!(n % 2);
 
 console.log('\nIs ' + n + ' odd? ' + isOdd(n));
+
+const negative = n => 0 - n;
