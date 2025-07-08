@@ -22,3 +22,5 @@ const negation = n => -n;
 console.log('\n' + n + ' negated is ' + negation(n));
 
 const reciprocal = n => 1 / n;
+
+console.log('\nThe reciprocal of ' + n + ' is ' + reciprocal(n));
