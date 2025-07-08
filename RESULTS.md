@@ -5,3 +5,6 @@
 
 **square() output:**
 3 squared = 9
+
+**isEven() output:**
+3 is odd

@@ -10,3 +10,5 @@ const square = n => n ** 2;
 console.log('\n' + n + ' squared = ' + square(n));
 
 const isEven = n => !(n % 2);
+
+console.log('\nIs ' + n + ' even? ' + isEven(n));
